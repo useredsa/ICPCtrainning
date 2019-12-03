@@ -1,1 +1,0 @@
-/home/useredsa/Desktop/cpc/codeforces/920/g/g.cpp
