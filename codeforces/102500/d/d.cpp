@@ -26,7 +26,7 @@ void dijsktra() {
 
   using ili = pair<il, int>;
   priority_queue<ili, vector<ili>, greater<ili>> myq;
-	d[0][0] = 0;
+  d[0][0] = 0;
   myq.emplace(il(0, 0), 0);
   while (!myq.empty()) {
     int u = myq.top().second;
@@ -122,6 +122,6 @@ int main() {
       cout << i + 1 << ' ';
     }
   }
-  // cout << "a" << endl;
+  cout << "a" << endl;
   if (ans) cout << endl;
 }
