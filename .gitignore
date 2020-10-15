@@ -1,0 +1,15 @@
+*.txt
+*.in
+*input*
+*.ans
+*.out
+*.real
+
+*.cpp
+*.h
+*.hpp
+*.out
+
+gen
+gen.cpp
+*.sh
